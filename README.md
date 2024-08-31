@@ -1,7 +1,7 @@
 # Adventure_Works_Project
 
 Comprehensive Business Analytics for Adventure WorksComprehensive Business Analytics for Adventure Works
-Jun 2024 - Jul 2024Jun 2024 - Jul 2024
+
 ⭐Objective:
 
 Conducted a thorough analysis of Adventure Works' business metrics using Power BI, focusing on sales, expenditures, territory insights, product performance, and customer analytics. Objective was to derive data-driven insights for strategic decisions and operational efficiencies.
