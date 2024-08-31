@@ -1,4 +1,4 @@
-# Adventure_Works-_Project
+# Adventure_Works_Project
 
 Comprehensive Business Analytics for Adventure WorksComprehensive Business Analytics for Adventure Works
 Jun 2024 - Jul 2024Jun 2024 - Jul 2024
